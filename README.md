@@ -4,7 +4,7 @@ Monthly macroeconomic research notes analyzing U.S. labor market and inflation d
 
 ---
 
-## Current Report
+## Latest Report
 - ADP Employment – May 2026
 
 ---
