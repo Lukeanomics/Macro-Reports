@@ -1,6 +1,6 @@
 # Macro Data & Regime Reports
 
-Personal macroeconomic and market regime research analyzing U.S. economic data, financial markets, and cross-asset relationships using primary economic releases and market data.
+Personal macroeconomic and market regime research/reports analyzing U.S. economic data, financial markets, and cross-asset relationships using primary economic releases and market data.
 
 ---
 
