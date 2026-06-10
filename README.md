@@ -5,7 +5,8 @@ Monthly macroeconomic research notes analyzing U.S. labor market and inflation d
 ---
 
 ## Latest Report
-- ADP Employment – May 2026
+- 2026/June/Risk-off Regime Thesis & Framework — 06-10-2026.pdf
+- 2026/June/Risk-off Regime Thesis & Framework — 06-10-2026.md
 
 ---
 
