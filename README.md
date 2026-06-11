@@ -6,8 +6,8 @@ Personal macroeconomic and market regime research/reports analyzing U.S. economi
 
 ## Latest Report
 
-* 2026/June/Risk-off Regime Thesis & Framework — 06-10-2026.pdf
-* 2026/June/Risk-off Regime Thesis & Framework — 06-10-2026.md
+* 2026/June/Producer Price Index Summary – May 2026.pdf.pdf
+* 2026/June/Producer Price Index Summary – May 2026.pdf.md
 
 ---
 
